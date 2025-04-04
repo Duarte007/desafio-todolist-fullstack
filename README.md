@@ -35,7 +35,6 @@ Este desafio consiste em desenvolver uma aplicação completa de Lista de Tarefa
 - Containerização com Docker e Docker Compose
 - Implementação de CI/CD
 - Testes unitários e/ou de integração
-- Autenticação de usuários
 
 ## Estrutura Sugerida
 
@@ -88,7 +87,6 @@ Recomendamos o uso do MySQL, mas você pode escolher o banco de dados de sua pre
 - Qualidade e organização do código
 - Uso correto de TypeScript (tipagem adequada)
 - Aplicação de princípios SOLID e padrões de projeto
-- Tratamento de erros e edge cases
 - Documentação
 - Extras implementados (Docker, CI/CD, testes, etc.)
 
