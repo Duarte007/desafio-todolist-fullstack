@@ -41,6 +41,7 @@ Este desafio consiste em desenvolver uma aplicação completa de Lista de Tarefa
 
 ### Frontend
 
+```bash
 frontend/
 ├── src/
 │ ├── components/ # Componentes React
@@ -52,9 +53,11 @@ frontend/
 │ └── index.tsx # Ponto de entrada
 ├── package.json
 └── tsconfig.json
+```
 
 ### Backend
 
+```bash
 backend/
 ├── src/
 │ ├── controllers/ # Controladores da API
@@ -66,6 +69,7 @@ backend/
 │ └── server.ts # Ponto de entrada
 ├── package.json
 └── tsconfig.json
+```
 
 ## Banco de Dados
 
